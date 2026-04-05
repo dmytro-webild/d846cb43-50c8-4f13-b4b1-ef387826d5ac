@@ -60,17 +60,17 @@ export default function LandingPage() {
         {
           title: "Get Started Growing",
           description: "Vegetable patches, raised beds, polytunnels, and greenhouse work.",
-          imageSrc: "http://img.b2bpic.net/free-photo/flower-sprouts-before-planting-ground-pots-plastic-boxes-selective-focus-leaves-hello-spring-beginning-seasonal-spring-work-earth_166373-3535.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/flower-sprouts-before-planting-ground-pots-plastic-boxes-selective-focus-leaves-hello-spring-beginning-seasonal-spring-work-earth_166373-3535.jpg?_wi=2",
         },
         {
           title: "Professional Landscaping",
           description: "Transform your outdoor landscape effectively.",
-          imageSrc: "http://img.b2bpic.net/free-photo/incognito-man-cutting-overgrown-bushes_651396-1551.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/incognito-man-cutting-overgrown-bushes_651396-1551.jpg?_wi=2",
         },
         {
           title: "General Maintenance",
           description: "Ongoing upkeep for a healthy garden year-round.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-woman-working-garden-growing-plants-pots-cutting-branches-with-pruner-gardening-job-concept_74855-12893.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-woman-working-garden-growing-plants-pots-cutting-branches-with-pruner-gardening-job-concept_74855-12893.jpg?_wi=2",
         },
       ]}
       title="Comprehensive Growing Services"

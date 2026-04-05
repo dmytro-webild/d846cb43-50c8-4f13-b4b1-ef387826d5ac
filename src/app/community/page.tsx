@@ -5,7 +5,6 @@ import ReactLenis from "lenis/react";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
 import FooterLogoReveal from '@/components/sections/footer/FooterLogoReveal';
 import FeatureCardSix from '@/components/sections/feature/FeatureCardSix';
-import { ShieldCheck, Users, Lock, CreditCard } from "lucide-react";
 
 export default function CommunityHubPage() {
   return (
@@ -45,7 +44,6 @@ export default function CommunityHubPage() {
             description="What you unlock with your community membership."
             textboxLayout="default"
             useInvertedBackground={true}
-            animationType="slide-up"
             features={[
               { 
                 title: "Secure Access", 

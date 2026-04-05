@@ -70,7 +70,7 @@ export default function LandingPage() {
           description: "Practical tools for everyone.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/flower-sprouts-before-planting-ground-pots-plastic-boxes-selective-focus-leaves-hello-spring-beginning-seasonal-spring-work-earth_166373-3535.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/flower-sprouts-before-planting-ground-pots-plastic-boxes-selective-focus-leaves-hello-spring-beginning-seasonal-spring-work-earth_166373-3535.jpg?_wi=3"
       mediaAnimation="slide-up"
     />
   </div>

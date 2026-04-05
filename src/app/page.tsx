@@ -70,7 +70,7 @@ export default function LandingPage() {
           href: "/community",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/medium-shot-woman-working-garden_23-2149128118.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/medium-shot-woman-working-garden_23-2149128118.jpg?_wi=1"
       imageAlt="Community vegetable garden"
       mediaAnimation="slide-up"
       avatars={[
@@ -157,17 +157,17 @@ export default function LandingPage() {
         {
           title: "Start Your Growing Journey",
           description: "Vegetable patches, raised beds, polytunnels, and greenhouse work.",
-          imageSrc: "http://img.b2bpic.net/free-photo/flower-sprouts-before-planting-ground-pots-plastic-boxes-selective-focus-leaves-hello-spring-beginning-seasonal-spring-work-earth_166373-3535.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/flower-sprouts-before-planting-ground-pots-plastic-boxes-selective-focus-leaves-hello-spring-beginning-seasonal-spring-work-earth_166373-3535.jpg?_wi=1",
         },
         {
           title: "Professional Landscaping",
           description: "High-quality landscaping services for your outdoor spaces.",
-          imageSrc: "http://img.b2bpic.net/free-photo/incognito-man-cutting-overgrown-bushes_651396-1551.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/incognito-man-cutting-overgrown-bushes_651396-1551.jpg?_wi=1",
         },
         {
           title: "General Gardening",
           description: "Ongoing maintenance and practical help.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-woman-working-garden-growing-plants-pots-cutting-branches-with-pruner-gardening-job-concept_74855-12893.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-woman-working-garden-growing-plants-pots-cutting-branches-with-pruner-gardening-job-concept_74855-12893.jpg?_wi=1",
         },
       ]}
       title="Our Growing Services"

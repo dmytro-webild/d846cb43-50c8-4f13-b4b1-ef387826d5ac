@@ -76,7 +76,7 @@ export default function LandingPage() {
           description: "Workshops and sessions.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/medium-shot-woman-working-garden_23-2149128118.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/medium-shot-woman-working-garden_23-2149128118.jpg?_wi=2"
       mediaAnimation="slide-up"
     />
   </div>

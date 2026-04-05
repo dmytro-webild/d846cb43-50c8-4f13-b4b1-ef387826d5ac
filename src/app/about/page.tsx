@@ -42,6 +42,7 @@ export default function AboutPage() {
                 { title: "Local Sovereignty", description: "Reducing reliance on imported goods by fostering island-wide food production." }
             ]}
             textboxLayout="split"
+            useInvertedBackground={false}
             imageSrc="http://img.b2bpic.net/free-photo/happy-woman-working-garden-growing-plants-pots-cutting-branches-with-pruner-gardening-job-concept_74855-12893.jpg?_wi=1"
         />
 
@@ -55,6 +56,7 @@ export default function AboutPage() {
             showRating={true}
             animationType="slide-up"
             textboxLayout="default"
+            useInvertedBackground={false}
         />
 
         <FooterLogoReveal
